@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel - M [montoyab][website] 👋
 
-[![Website](https://img.shields.io/website?label=camdeveloper.com&style=for-the-badge&url=https%3A%2F%2Famotoya.dev)](https://amontoya.dev)
+[![Website](https://img.shields.io/website?label=amontoya.dev&style=for-the-badge&url=https%3A%2F%2Famotoya.dev)](https://amontoya.dev)
 
 ## I'm a Husband, Father, and  Developer!
 
