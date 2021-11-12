@@ -1,4 +1,4 @@
-### Hi there, I'm Daniel - M [montoyab][website] 👋
+### Hi there, I'm Daniel - M [montoyab] 👋
 
 [![Website](https://img.shields.io/website?label=amontoya.dev&style=for-the-badge&url=https://www.amontoya.dev/)](https://amontoya.dev)
 
